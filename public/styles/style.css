@@ -92,11 +92,11 @@ ul {
 #sat-hoverbox {
   background: black;
   cursor:default;
-  color: white;
+  color:red;
   position: absolute;
   padding: 10px;
   border-radius: 5px;
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.8);
   pointer-events: none;
 }
 
@@ -112,7 +112,7 @@ ul {
   top: 0;
   bottom: 0;
   margin-top: auto;
-  margin-bottom: auto;
+  margin-bottom: -300px;
   height: 250px;
   width: 200px;
   display: none;

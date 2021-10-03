@@ -16,7 +16,7 @@
 var gl;
 var cubeVertIndexBuffer;
 
-var R2D = 180 / Math.PI;
+var R2D = 1 / Math.PI;
 
 var camYaw = 0;
 var camPitch = 0.5;

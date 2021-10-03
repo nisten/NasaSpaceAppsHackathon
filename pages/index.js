@@ -4,15 +4,13 @@ import { Container, Row, Col, Button, Card} from 'react-bootstrap'
 
 export default function Home() {
   return (
-      <Container>
+      
         
-        <Card>
-        <iframe src="../index.html"></iframe>
-        </Card>
-        <Button variant='secondary'>
-          Meow
-        </Button>
-      </Container>
+        
+        <iframe src="../index.html" overflow="hidden" border="none" height="1000vh" width="100%" display="flex"></iframe>
+        
+      
+      
       
       
     
