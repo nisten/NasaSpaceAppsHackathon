@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "hits": [
+        {
+          "field": "name",
+          "value": "<em>Viagra</em>"
+        },
+        {
+          "field": "prescribable_name",
+          "value": "Sildenafil 50 mg Oral Tablet [<em>Viagra</em>]"
+        }
+      ],
+      "name": "Viagra",
+      "prescribable_name": "Sildenafil 50 mg Oral Tablet [Viagra]",
+      "country": "EU",
+      "ndc_product_codes": null,
+      "dpd_codes": null,
+      "ema_product_codes": [
+        "EMEA/H/C/000202"
+      ],
+      "ema_ma_numbers": [
+        "EU/1/98/077/006",
+        "EU/1/98/077/007",
+        "..."
+      ],
+      "pzns": [],
+      "co_product_ids": [],
+      "tr_product_ids": [],
+      "it_product_ids": [],
+      "my_product_ids": [],
+      "at_product_ids": [],
+      "idn_product_ids": [],
+      "th_product_ids": [],
+      "sg_product_ids": [],
+      "dosage_form": "Tablet, film coated",
+      "strength": {
+        "number": "50",
+        "unit": "mg"
+      },
+      "route": "Oral",
+      "approved": true,
+      "unapproved": false,
+      "generic": false,
+      "otc": false,
+      "mixture": false,
+      "allergen": false,
+      "vaccine": false,
+      "ingredients": [
+        {
+          "drugbank_id": "DB00203",
+          "name": "Sildenafil",
+          "cas": "139755-83-2",
+          "strength": {
+            "number": "50",
+            "unit": "mg"
+          }
+        }
+      ],
+      "images": []
+    },
+    {
+      "hits": [
+        {
+          "field": "name",
+          "value": "<em>VIAGRA</em>"
+        },
+        {
+          "field": "prescribable_name",
+          "value": "Sildenafil 25 mg Oral Tablet [<em>Viagra</em>]"
+        }
+      ],
+      "name": "VIAGRA",
+      "prescribable_name": "Sildenafil 25 mg Oral Tablet [Viagra]",
+      "country": "Italy",
+      "ndc_product_codes": null,
+      "dpd_codes": null,
+      "ema_product_codes": null,
+      "ema_ma_numbers": null,
+      "pzns": [],
+      "co_product_ids": [],
+      "tr_product_ids": [],
+      "it_product_ids": [
+        "034076024",
+        "034076036",
+        "..."
+      ],
+      "my_product_ids": [],
+      "at_product_ids": [],
+      "idn_product_ids": [],
+      "th_product_ids": [],
+      "sg_product_ids": [],
+      "dosage_form": "Tablet",
+      "strength": {
+        "number": "25",
+        "unit": "MG"
+      },
+      "route": "Oral",
+      "approved": false,
+      "unapproved": false,
+      "generic": false,
+      "otc": false,
+      "mixture": false,
+      "allergen": false,
+      "vaccine": false,
+      "ingredients": [
+        {
+          "drugbank_id": "DB00203",
+          "name": "Sildenafil",
+          "cas": "139755-83-2",
+          "strength": {
+            "number": "25",
+            "unit": "MG"
+          }
+        }
+      ],
+      "images": []
+    },
+    "..."
+  ]
+}
